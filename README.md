@@ -1,6 +1,8 @@
 # iFixTheButton for Mac mini 2024
 [Official website uplab.pro](https://uplab.pro/)
+</br>
 [Instagram](https://www.instagram.com/uptime.lab/)
+</br>
 [Twitter](https://twitter.com/merocle)
 
 ![iFixTheButton](/images/render1.png?raw=true "iFixTheButton")
